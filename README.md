@@ -26,23 +26,16 @@ or just Lu 🙃 (nice and short)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-zsh&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
 
-## Personal Projects and Contributes
-
-<span align="center" >
+## ▶️ Personal Projects and Contributes
  
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LyuboDias&repo=nessycreativitycrafts)](https://github.com/LyuboDias/nessycreativitycrafts)
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LyuboDias&repo=db-impact)](https://github.com/LyuboDias/db-impact)
- 
-<span/>
- 
-<span align="center" >
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carabell94&repo=airchef)](https://github.com/carabell94/airchef)
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carabell94&repo=festipal)](https://github.com/carabell94/festipal)
  
- <span/>
 
  ## 📊 My stats
  
