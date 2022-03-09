@@ -26,6 +26,24 @@ or just Lu 🙃 (nice and short)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-zsh&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
 
+## Personal Projects and Contributes
+
+<a href="https://github.com/carabell94/AirChef">
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carabell94&repo=air-chef&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> -->
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carabell94&repo=air-chef)](https://github.com/anuraghazra/github-readme-stats)
+</a> 
+
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
  ## 📊 My stats
  
