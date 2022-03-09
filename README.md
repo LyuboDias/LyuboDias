@@ -1,6 +1,7 @@
-### Hi there 👋
 
-<!--
+
+[rubber-duck](https://user-images.githubusercontent.com/64465947/157427970-ecd410f5-66ff-4fa0-9b24-ab289b28cfce.gif)
+
 **LyuboDias/LyuboDias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
