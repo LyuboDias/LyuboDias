@@ -3,16 +3,15 @@
 ### Nice to see you on here... My name is Lyubomir Dias
 ### Please call me Lu (its nice and short )
 
-### ...about me...
+### About me
 <hr/>
 
  ### - Im Full stack developer ( Ruby on Rails and React primary )
  ### - I’m currently working at Brezaa Dating App
  
-### Visitors and stats
 <hr/>
 
-![VisitorCount](https://profile-counter.glitch.me/{LyuboDias}/count.svg)
+Visitors - ![VisitorCount](https://profile-counter.glitch.me/{LyuboDias}/count.svg)
 
 ![](https://github-readme-stats.vercel.app/api?username=LyuboDias&show_icons=true&title_color=00D0D0&icon_color=C72C53&text_color=FAEA12&bg_color=151515)
 
