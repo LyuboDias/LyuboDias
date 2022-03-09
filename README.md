@@ -3,11 +3,11 @@
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### Wlcome to my GitHub page, My name is Lyubomir Dias 
-or just Lu :) (nice and short)
+or just Lu 🙃 (nice and short)
 
 ## 😇 About me
 
- Im a Full stack web developer, born and raised in Sofia, Bulgaria 🇧🇬 and lived and work in UK since 2012. Im urrently workin at Brezaa dating app as Front-end developer. I enjoy very much sports(⚽ 🏀 🥊) , travel 🗺️ and ofcourse spendin time on my PC (coding 🦆💻 and gaming 👾).
+ Im a Full stack web developer, born and raised in Sofia, Bulgaria 🇧🇬, I live and work in the UK since 2012. Currently working at Brezaa dating app as Front-end developer. I very much enjoy sports(⚽ 🏀 🥊) , traveling 🗺️ and of course spending time on my PC (coding 🦆💻 and gaming 👾).
  
  ## ⚒️ Thech I use
  
