@@ -1,5 +1,5 @@
 
-![rubber-duck](https://user-images.githubusercontent.com/64465947/157428814-1bb80c58-6e3b-472a-9657-75aea93f20a6.gif)
+![rubber-ducking](https://user-images.githubusercontent.com/64465947/157428970-c5f0b97d-ff5a-4081-a22a-84e8fae5926f.gif)
 
 
 Nice to see you on here...
