@@ -2,14 +2,16 @@
 
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### Wlcome to my GitHub page, My name is Lyubomir Dias 
+### Welcome to my GitHub page, My name is Lyubomir Dias 
 or just Lu 🙃 (nice and short)
 
 ## 😇 About me
 
- Im a Full stack web developer, born and raised in Sofia, Bulgaria 🇧🇬, I live and work in the UK since 2012. Currently working at Brezaa dating app as Front-end developer. I very much enjoy sports(⚽ 🏀 🥊) , traveling 🗺️ and of course spending time on my PC (coding 🦆💻 and gaming 👾).
+ Im a Full stack web developer, born and raised in Sofia, Bulgaria 🇧🇬, I've been living and working in the UK since 2012. Currently working at Brezaa dating app as Front-End Developer. I very much enjoy sports(⚽ 🏀 🥊) , traveling 🗺️ and of course spending time on my PC (coding 🦆💻 and gaming 👾).
  
- ## ⚒️ Thech I use
+ Self developing in a process... 📚
+ 
+ ## ⚒️ Some of the Thech I use
  
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
