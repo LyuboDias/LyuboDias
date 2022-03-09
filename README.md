@@ -42,13 +42,13 @@ Visitors
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyuboDias&langs_count=5&theme=tokyonight" />
 </a>
 
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LyuboDias&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/LyuboDias/NessyCreativityCrafts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LyuboDias&repo=nessy-creativity-crafts&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LyuboDias&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/carabell94/AirChef">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carabell94&repo=air-chef&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=LyuboDias&show_icons=true&title_color=00D0D0&icon_color=C72C53&text_color=FAEA12&bg_color=151515) -->
