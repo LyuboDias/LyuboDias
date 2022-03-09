@@ -53,7 +53,7 @@ Visitors
 
 ## 🖇️ Links 
 
-[![LinkedIn](https://www.linkedin.com/in/lyubomir-dias/)
+[![LinkedIn] [3.2]](https://www.linkedin.com/in/lyubomir-dias/)
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=LyuboDias&show_icons=true&title_color=00D0D0&icon_color=C72C53&text_color=FAEA12&bg_color=151515) -->
 
