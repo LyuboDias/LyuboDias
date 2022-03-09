@@ -28,13 +28,13 @@ or just Lu 🙃 (nice and short)
 
 ## Personal Projects and Contributes
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LyuboDias&repo=nessycreativitycrafts)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LyuboDias&repo=nessycreativitycrafts)](https://github.com/LyuboDias/nessy-creativity-crafts)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LyuboDias&repo=db-impact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LyuboDias&repo=db-impact)](https://github.com/LyuboDias/db-impact)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carabell94&repo=airchef)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carabell94&repo=airchef)](https://github.com/carabell94/air-chef)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carabell94&repo=festipal)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carabell94&repo=festipal)](https://github.com/carabell94/festipal)
 
  ## 📊 My stats
  
