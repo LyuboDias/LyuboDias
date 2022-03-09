@@ -22,8 +22,8 @@ or just Lu 🙃 (nice and short)
 ![](https://img.shields.io/badge/Code-Next_Js-informational?style=flat&logo=next.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Storybook-informational?style=flat&logo=storybook&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Material_Ui-informational?style=flat&logo=material-ui&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Z_Shell-informational?style=flat&logo=gnu-z-shell&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Material_UI-informational?style=flat&logo=material.ui&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-zsh&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
 
 
