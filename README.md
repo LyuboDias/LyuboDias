@@ -1,7 +1,7 @@
 
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<img align="center" src="https://user-images.githubusercontent.com/64465947/157428970-c5f0b97d-ff5a-4081-a22a-84e8fae5926f.gif" width="500px">
+<img src="https://user-images.githubusercontent.com/64465947/157428970-c5f0b97d-ff5a-4081-a22a-84e8fae5926f.gif" width="500px" align="center" >
 
 ### Nice to see you on here... My name is Lyubomir Dias
 ### or just Lu (its nice and short )
