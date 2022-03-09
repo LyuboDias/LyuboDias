@@ -34,13 +34,22 @@ Visitors
 
 ![VisitorCount](https://profile-counter.glitch.me/{LyuboDias}/count.svg)
 
-<a href="">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LyuboDias&show_icons=true&title_color=00D0D0&icon_color=C72C53&text_color=FAEA12&bg_color=151515" />
 </a>
 
-<a href="">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyuboDias&langs_count=5&theme=tokyonight" />
 </a>
+
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LyuboDias&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LyuboDias&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=LyuboDias&show_icons=true&title_color=00D0D0&icon_color=C72C53&text_color=FAEA12&bg_color=151515) -->
 
