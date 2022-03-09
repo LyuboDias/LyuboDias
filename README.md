@@ -11,7 +11,7 @@ or just Lu 🙃 (nice and short)
  
  Self developing in a process... 📚
  
- ## ⚒️ Some of the Thech I use
+ ## ⚒️ Some of the Tech I use
  
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
