@@ -3,9 +3,9 @@
 Nice to see you on here...
 
 ...about me...
-![VisitorCount](https://profile-counter.glitch.me/{LyuboDias}/count.svg)
+<!-- ![VisitorCount](https://profile-counter.glitch.me/{LyuboDias}/count.svg)
 ![](https://github-readme-stats.vercel.app/api?username=LyuboDias&show_icons=true&title_color=00D0D0&icon_color=C72C53&text_color=FAEA12&bg_color=151515)
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LyuboDias&langs_count=5&theme=tokyonight)
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LyuboDias&langs_count=5&theme=tokyonight) -->
 
  - Please call me Lu (its nice and short )
  - Im Full stack developer ( Ruby on Rails and React primary )
@@ -15,8 +15,8 @@ Nice to see you on here...
 <br/>
 Visitors
 <br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
 ![VisitorCount](https://profile-counter.glitch.me/{LyuboDias}/count.svg)
+
 ![](https://github-readme-stats.vercel.app/api?username=LyuboDias&show_icons=true&title_color=00D0D0&icon_color=C72C53&text_color=FAEA12&bg_color=151515)
+
 ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LyuboDias&langs_count=5&theme=tokyonight)
