@@ -2,17 +2,15 @@
 
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### Nice to see you on here... My name is Lyubomir Dias
-### or just Lu (its nice and short )
+### Wlcome to my GitHub page, My name is Lyubomir Dias
+### or just Lu :) (its nice and short )
 
-### About me
-<hr/>
+## About me
 
  ### - Im Full stack developer ( Ruby on Rails and React primary )
  ### - I’m currently working at Brezaa Dating App
  
- <hr/>
- ### Thech I use
+ ## Thech I use
  
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
@@ -28,12 +26,8 @@
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
-<hr/>
+ ## 📊 My stats
  
- ### 📊 My stats
- 
-<hr/>
-
 Visitors 
 <br/>
 
