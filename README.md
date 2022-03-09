@@ -1,6 +1,6 @@
 
 ![rubber-ducking](https://user-images.githubusercontent.com/64465947/157428970-c5f0b97d-ff5a-4081-a22a-84e8fae5926f.gif)
-![](https://github-readme-stats.vercel.app/api?username=LyuboDias&show_icons=true&title_color=EFE907&icon_color=00D0D0&text_color=00FF12&bg_color=151515)
+![](https://github-readme-stats.vercel.app/api?username=LyuboDias&show_icons=true&title_color=00D0D0&icon_color=C72C53&text_color=FAEA12&bg_color=151515)
 <br/>
 Visitors
 ![VisitorCount](https://profile-counter.glitch.me/{LyuboDias}/count.svg)
