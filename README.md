@@ -1,6 +1,6 @@
 
+![rubber-duck](https://user-images.githubusercontent.com/64465947/157428814-1bb80c58-6e3b-472a-9657-75aea93f20a6.gif)
 
-https://user-images.githubusercontent.com/64465947/157427970-ecd410f5-66ff-4fa0-9b24-ab289b28cfce.gif
 
 Nice to see you on here...
 
