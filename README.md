@@ -51,6 +51,10 @@ Visitors
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carabell94&repo=air-chef&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 
+## 🖇️ Links 
+
+[![LinkedIn](https://www.linkedin.com/in/lyubomir-dias/)
+
 <!-- ![](https://github-readme-stats.vercel.app/api?username=LyuboDias&show_icons=true&title_color=00D0D0&icon_color=C72C53&text_color=FAEA12&bg_color=151515) -->
 
 <!-- ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LyuboDias&langs_count=5&theme=tokyonight) -->
