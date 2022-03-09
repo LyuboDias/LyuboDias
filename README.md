@@ -28,20 +28,14 @@ or just Lu 🙃 (nice and short)
 
 ## Personal Projects and Contributes
 
-<a href="https://github.com/carabell94/AirChef">
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carabell94&repo=air-chef&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> -->
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carabell94&repo=air-chef)](https://github.com/anuraghazra/github-readme-stats)
-</a> 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carabell94&repo=air-chef)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carabell94&repo=festipal)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LyuboDias&repo=nessy-creativity-crafts)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LyuboDias&repo=db-impact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
