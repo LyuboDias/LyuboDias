@@ -28,9 +28,9 @@ or just Lu 🙃 (nice and short)
 
 ## ▶️ Personal Projects and Contributes
  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LyuboDias&repo=nessycreativitycrafts)](https://github.com/LyuboDias/nessycreativitycraft)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LyuboDias&repo=essycreativitycrafts)](https://github.com/LyuboDias/nessycreativitycrafts)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LyuboDias&repo=db-impact)](https://github.com/LyuboDias/db-impac)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LyuboDias&repo=b-impact)](https://github.com/LyuboDias/db-impact)
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carabell94&repo=airchef)](https://github.com/carabell94/airchef)
 
