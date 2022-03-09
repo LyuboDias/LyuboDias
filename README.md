@@ -4,6 +4,9 @@
 
 Nice to see you on here...
 
+![](https://github-readme-stats.vercel.app/api?username=LyuboDias&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515)
+![VisitorCount](https://profile-counter.glitch.me/{LyuboDias}/count.svg)
+
 ...about me...
 
  - Please call me Lu (its nice and short )
