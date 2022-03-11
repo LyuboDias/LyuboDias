@@ -47,18 +47,18 @@ Visitors
 ![VisitorCount](https://profile-counter.glitch.me/{LyuboDias}/count.svg)
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LyuboDias&show_icons=true&title_color=00D0D0&icon_color=C72C53&text_color=FAEA12&bg_color=151515" target="_blank" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LyuboDias&show_icons=true&title_color=00D0D0&icon_color=C72C53&text_color=FAEA12&bg_color=151515" />
 </a>
 
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyuboDias&langs_count=5&theme=tokyonight" target="_blank" />
+<a href="#" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyuboDias&langs_count=5&theme=tokyonight" />
 </a> 
 
 ## 🖇️ Links 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/lyubomir-dias/)
 
-<a href="https://lyubo-dias-react-portfolio.herokuapp.com/">
-  <img width="20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL2g9m8W6xSw01P1lxMf_AR9TODeSAhAtLOg&usqp=CAU" target="_blank" />
+<a href="https://lyubo-dias-react-portfolio.herokuapp.com/" target="_blank" alt='portfolio' >
+  <img width="20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL2g9m8W6xSw01P1lxMf_AR9TODeSAhAtLOg&usqp=CAU" />
   Portfolio
 </a> 
