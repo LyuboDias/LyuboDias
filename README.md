@@ -58,7 +58,7 @@ Visitors
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/lyubomir-dias/)
 
-<a href="https://lyubo-dias-react-portfolio.herokuapp.com/" target="_blank" alt='portfolio' >
+<a href="https://lyubo-dias-react-portfolio.herokuapp.com/" alt='portfolio' >
   <img width="20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL2g9m8W6xSw01P1lxMf_AR9TODeSAhAtLOg&usqp=CAU" />
   Portfolio
 </a> 
